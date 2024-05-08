@@ -1,0 +1,3 @@
+command 1:- python password_generator.py 12 --uppercase --digits --special
+command 2:-python password_generator.py 16 --digits
+command 3:-python password_generator.py 20 --uppercase --digits --special
